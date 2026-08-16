@@ -1,13 +1,13 @@
 # 🏥 Vindhya Hospital & Research Centre (VHRC) — Official Website
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-GitHub_Pages-brightgreen?style=for-the-badge&logo=github)](https://sakshitiwari-24.github.io/Hospital-site-Rewa-/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-black?style=for-the-badge&logo=vercel)](https://rewa-hospital.vercel.app)
 [![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/Sakshitiwari-24/Hospital-site-Rewa-)
 
 > **Caring Beyond Boundaries — Delivering Trusted Healthcare with Compassion and Excellence**
 
 ## 🚀 Live Website
-Check out the live website deployed on GitHub Pages:
-👉 **[https://sakshitiwari-24.github.io/Hospital-site-Rewa-/](https://sakshitiwari-24.github.io/Hospital-site-Rewa-/)**
+Check out the live website deployed on Vercel:
+👉 **[https://rewa-hospital.vercel.app](https://rewa-hospital.vercel.app)**
 
 A world-class, cinematic, scroll-based hospital website for **Vindhya Hospital & Research Centre**, the **first 100-bedded super-specialty hospital** in the entire Vindhya Region, located in **Rewa, Madhya Pradesh, India**.
 
